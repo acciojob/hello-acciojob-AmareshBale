@@ -3,10 +3,10 @@
 main{
 	width:150px;
 	height:150px;
-	background-color:#000000
+	background:black
 }
-.hello-accio {
-	color:white;
+.hello-accio{
+	color:#ffffff;
 	margin-left:32px;
 	padding:10px;
 }
